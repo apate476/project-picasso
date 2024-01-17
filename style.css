@@ -1,0 +1,119 @@
+.square {
+  width: 600px;
+  height: 150px;
+  background-color: aqua;
+  border: 3px solid white;
+}
+
+.box1 {
+  width: 200px;
+  height: 150px;
+  border: 3px solid white;
+}
+
+.box2 {
+  width: 200px;
+  height: 150px;
+  border: 3px solid white;
+}
+
+.box3 {
+  width: 200px;
+  height: 150px;
+  border: 3px solid white;
+}
+
+.flexbox {
+  display: flex;
+}
+
+.square2 {
+  width: 600px;
+  height: 200px;
+  background-color: aqua;
+}
+
+.red {
+  background-color: red;
+  position: absolute;
+}
+.circle2 {
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  top: 144px;
+  left: 40px;
+}
+
+.circle {
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  top: 20px;
+  left: 40px;
+}
+
+.circle3 {
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  top: 30px;
+  left: 250px;
+}
+
+.bigcircle {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  top: 135px;
+  left: 185px;
+}
+
+.yellow {
+  background-color: yellow;
+  position: absolute;
+}
+
+.yellowcircle {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  top: 60px;
+  left: 120px;
+}
+
+.smallcircle {
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  top: 200px;
+  left: 100px;
+}
+
+.triangle1 {
+  width: 0;
+  height: 0;
+  border-left: 100px solid transparent;
+  border-right: 100px solid transparent;
+  border-bottom: 250px solid green;
+  position: absolute;
+  top: 114px;
+  left: 320px;
+}
+#triangle2 {
+  width: 0;
+  height: 0;
+  border-left: 70px solid transparent;
+  border-right: 70px solid transparent;
+  border-bottom: 150px solid greenyellow;
+  position: absolute;
+  top: 214px;
+  left: 468px;
+}
+
+.square3 {
+  width: 600px;
+  height: 20px;
+  background-color: greenyellow;
+  border-top: 6px solid white;
+}
