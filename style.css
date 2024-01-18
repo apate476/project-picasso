@@ -99,6 +99,8 @@
   position: absolute;
   top: 114px;
   left: 320px;
+  z-index: 0;
+
 }
 #triangle2 {
   width: 0;
@@ -116,4 +118,9 @@
   height: 20px;
   background-color: greenyellow;
   border-top: 6px solid white;
+}
+.person {
+  font-size:80px;
+  position:absolute;
+  top:275px
 }
